@@ -1,0 +1,60 @@
+body{
+    background-color: #06425e;
+}
+.h{
+    margin-left:583px;
+    margin-top: 30px;
+    font-family: calibri;
+    color: white;
+}
+.form-1{
+    width: 500px;
+    margin-left: 490px;
+    padding: 20px;
+    background-color:white;
+    height:490px;
+}
+.l-name{
+    display: block;
+    margin-left: 5px;
+    margin-top: 15px;
+    font-family: calibri;
+    font-size: 16px;
+    color: red;
+}
+.i-name{
+    height: 15px;
+    width: 480px;
+    margin-left: 5px;
+}
+.imessage{
+    display: block;
+    margin-left: 5px;
+    height:80px;
+    width: 481px;
+}
+.btn{
+    display: block;
+    margin-left: 5px;
+    margin-top: 20px;
+    height: 30px;
+    width: 485px;
+    background-color:#06968C;
+    border: none;
+    padding-right: 50px;
+    font-family: calibri;
+    cursor: pointer;
+    color: white;
+    font-size: 15px;
+}
+.sub{
+    visibility: hidden;
+    
+}
+.pra{
+    display: block;
+    margin-left: 530px;
+    margin-top: 40px;
+    font-family: calibri;
+    color: white;
+}
