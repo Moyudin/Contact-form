@@ -4,6 +4,7 @@ body{
 .h{
     margin-left:583px;
     margin-top: 30px;
+    font-size: 36px;
     font-family: calibri;
     color: white;
 }
@@ -48,8 +49,7 @@ body{
     font-size: 15px;
 }
 .sub{
-    visibility: hidden;
-    
+    visibility: hidden;    
 }
 .pra{
     display: block;
@@ -58,3 +58,4 @@ body{
     font-family: calibri;
     color: white;
 }
+
