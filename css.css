@@ -2,7 +2,6 @@ body{
     background-color: #06425e;
 }
 .h{
-    margin-left:42%;
     margin-top: 3%;
     font-size: 190%;
     font-family: calibri;
@@ -48,15 +47,12 @@ body{
     color: white;
 }
 .pra{
-    display: block;
+    color: white;
     margin-left: 3%;
     margin-top: 2%;
-    font-family: calibri;
-    color: white;
 }
  @media screen and (max-width:700px) {
     .h{
-        margin-left:10%;
         font-size: 150%;
         margin-top: 7%;
     }
@@ -71,51 +67,47 @@ body{
     }
     .i-name{
         height: 2vh;
-        width: 70vw;
+        width: 73vw;
         margin-left: 3%;
     }
     .imessage{
         margin-left: 3%;
         height:20vh;
-        width: 70vw;
+        width: 73vw;
     }
     .btn{
         margin-left: 3%;
         height: 5vh;
-        width: 73vw;
+        width: 75vw;
     }
     .pra{
-        margin-left:1%;
+        margin-left: 1%;
+        font-size: small;
         margin-top: 7%;
     }
  }
  @media screen and (min-width:545px) and (max-width:701px) {
-    .h{
-        margin-left:24%;
+    .form-1{
+        margin-left: 6%;
     }
     .btn{
         margin-top: 2%;
         height: 4vh;
-        width: 70vw;
     }
  }
  @media screen and (min-width:701px) and (max-width:1024px) {
     .h{
-        margin-left:37%;
-        margin-top: 10%;
+        margin-top: 5%;
         font-size: 140%;
     }
     .form-1{
         height:67vh;
     }
     .imessage{
-        margin-left: 1%;
         height:20vh;
         width: 33vw;
     }
     .pra{
         font-size:small;
-        margin-left:3%;
-        margin-top: 2%;
     }
  }
